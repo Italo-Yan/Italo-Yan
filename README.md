@@ -2,7 +2,7 @@
 ## Olá👋, Seja Bem Vindo! 🫡<br>
 <br>💻 Desenvolvedor Full-Stack
 <br>🔭 Estagiário da MaisCash
-<br>🌱 Estudando TypeScript e React.JS
+<br>🌱 Estudando TypeScript, React.JS e SQL
 <br>📫 Contate-me no email: italoyandev@gmail.com
 
 
@@ -15,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=italo-yan&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=italo-yan&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=italo-yan&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=italo-yan&icon=9&color=8)](https://visitcount.itsvg.in)
