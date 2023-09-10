@@ -1,8 +1,8 @@
 # 💫 Sobre Mim:
 ## Olá👋, Seja Bem Vindo! 🫡<br>
-<br>💻 Desenvolvedor Full-Stack
+<br>💻 Full-Stack Developer
 <br>🔭 Estagiário da MaisCash
-<br>🌱 Estudando TypeScript, React.JS e SQL
+<br>🖥️ Estudando TypeScript, React.JS e SQL
 <br>📫 Contate-me no email: italoyandev@gmail.com
 
 
