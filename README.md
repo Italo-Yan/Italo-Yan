@@ -1,7 +1,7 @@
 ## Hello👋, Welcome! 🫡<br>
 <br>💻 Full-Stack Developer
 <br>🔭 Trainee da MaisCash Tech
-<br>🖥️ Studying PostegreSQL
+<br>🖥️ Studying Java
 <br>📫 Contact me at email: italoyandev@gmail.com
 
 
