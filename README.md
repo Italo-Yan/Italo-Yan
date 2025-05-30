@@ -1,6 +1,5 @@
 ## Hello👋, Welcome! 🫡<br>
 <br>💻 Full-Stack Developer
-<br>🔭 Trainee da MaisCash Tech
 <br>🖥️ Studying Java
 <br>📫 Contact me at email: italoyandev@gmail.com
 <br>✉️ Portfolio https://portfolio-italo.netlify.app/?fbclid=PAAaa1kIPuAfBddW1GToxLfzhylc-hF6fBTQaWNclrm7wGGHYYqsZjrb0LV90
