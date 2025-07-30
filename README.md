@@ -1,7 +1,7 @@
 ## Hello👋, Welcome! 🫡<br>
 <br>💻 Full-Stack Developer
-<br>📫 italoyandev@gmail.com
-<br>✉️ LinkTr https://linktr.ee/Italo_Yan
+<br>📫 Email: italoyandev@gmail.com
+<br>✉️ LinkTr: https://linktr.ee/Italo_Yan
 
 
 ## 🌐 Social:
