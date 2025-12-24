@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/italoo_yaan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-yan-a08b77251/) 
 
 # 💻 Technology:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,git,docker,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,materialui,nodejs,cs,dotnet,git,docker,postgres)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Italo-Yan&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
